@@ -9,8 +9,8 @@ async function fetchData() {
         headers: {
             'content-type': 'application/x-www-form-urlencoded',
             'Accept-Encoding': 'application/gzip',
-            'X-RapidAPI-Key': 'b6c51220d7msh42562ee0833c93bp110c58jsn144718054658',
-            'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
+            'X-RapidAPI-Key': '',
+            'X-RapidAPI-Host': ''
         },
         body: encodedParams
     };
